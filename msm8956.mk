@@ -212,7 +212,8 @@ PRODUCT_PACKAGES += \
     libloc_ds_api \
     libloc_stub \
     liblocation_api \
-    libvehiclenetwork-native
+    libvehiclenetwork-native \
+    libsensorndkbridge
 
 PRODUCT_PACKAGES += \
     flp.conf \
